@@ -2,7 +2,7 @@ requests
 colorama
 tqdm
 shodan
-whois
+python-whois
 dnspython
 impacket
 ja3
